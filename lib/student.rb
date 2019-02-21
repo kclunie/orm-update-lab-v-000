@@ -49,4 +49,8 @@ class Student
     stud
   end
   
+  def self.new_from_db
+    
+  end
+  
 end
